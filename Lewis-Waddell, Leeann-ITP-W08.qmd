@@ -1,0 +1,50 @@
+---
+title: "ITP-W08-Shopify Store - Assignment 6 - Checkout, Policies, and Trust Signals"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# **Checkout review evidence**
+
+\
+Include a screenshot showing that you reviewed checkout, payment, shipping, pickup, or related settings in Shopify. You do not need to activate real payments.
+
+# **Shipping or pickup information** 
+
+Add or draft shipping, delivery, or pickup information for your store.
+
+# **Return/refund policy** 
+
+Add or draft a return/refund policy.
+
+# **Privacy policy or customer data statement** 
+
+Add or draft a privacy policy or brief customer data statement.
+
+# **Contact information** 
+
+Add or draft a contact page or contact section.
+
+# **Trust signals reflection** 
+
+Write one paragraph explaining how your policies and store information could make customers feel more confident.
+
+# **CPP Farm Store application reflection** 
+
+Write one paragraph explaining which trust signals would be especially important for CPP Farm Store.
+
+# Appendix
+
+- [GitHub Repo](https://github.com/lewiswaddell/ITP-W08.git)
+
+- GitHub Pages
