@@ -14,34 +14,58 @@ execute:
   freeze: auto
 ---
 
-# **Checkout review evidence**
+# **Checkout Review Evidence**
 
-\
-Include a screenshot showing that you reviewed checkout, payment, shipping, pickup, or related settings in Shopify. You do not need to activate real payments.
+![Checkout review](images/clipboard-3359004034.png)
 
-# **Shipping or pickup information** 
+![Payment review](images/clipboard-971339724.png)
 
-Add or draft shipping, delivery, or pickup information for your store.
+![Shipping review](images/clipboard-2860669898.png)\
+Shipping Review
 
-# **Return/refund policy** 
+![Digital Product Fulfillment Review](images/clipboard-2855191569.png)
 
-Add or draft a return/refund policy.
+![Print on Demand App Set Up](images/clipboard-1283836051.png)
 
-# **Privacy policy or customer data statement** 
+# **Shipping or pickup information**
 
-Add or draft a privacy policy or brief customer data statement.
+![Printify added as fulfillment location for my store](images/clipboard-3202952313.png)
 
-# **Contact information** 
+![Revised product description outlines print on demand fulfillment](images/clipboard-870965354.png)
 
-Add or draft a contact page or contact section.
+# **Return/refund policy**
 
-# **Trust signals reflection** 
+![Return & Exchanges Policy Draft](images/clipboard-3163261871.png)
 
-Write one paragraph explaining how your policies and store information could make customers feel more confident.
+# **Privacy policy or customer data statement**
 
-# **CPP Farm Store application reflection** 
+![Shopify-drafted consumer privacy policy](images/clipboard-2146516069.png)
 
-Write one paragraph explaining which trust signals would be especially important for CPP Farm Store.
+# **Contact information**
+
+![Contact Us Admin](images/clipboard-2111639542.png)
+
+![Contact Us - Storefront End](images/clipboard-4258789539.png)
+
+# **Trust signals reflection**
+
+> Write one paragraph explaining how your policies and store information could make customers feel more confident.
+
+The policies and store information outlined in my shop build trust with consumers by setting clear expectations from the time an order is placed, through fulfillment, and following delivery.
+
+Products that are digital or print on demand are clearly defined, while drop shipped order have a place of origin. When orders are placed, delivery dated are defined automatically based on fulfillment history, which eliminates the potential to over promise and under deliver.
+
+Customers are also informed of how their information will be used based on Shopify's policies, which are in place to protect all parties involved, and as such are not subject to revision.
+
+Contact information and channels are available with notice of response time in addition to clearly defined return, exchange and refund policies. This information sets customer expectations post-purchase, letting them know that service and satisfaction are guaranteed and backed by real people.
+
+# **CPP Farm Store application reflection**
+
+> Write one paragraph explaining which trust signals would be especially important for CPP Farm Store.
+
+Trust signals are especially important for the Farm Store as their customers have experienced mild dissatisfaction in the fulfillment phase of their buyer's journey when purchasing gift baskets due to their analog ordering process.
+
+The Farm Store would especially benefit from defined fulfillment duration at the time of order placement, a return/exchange/refund policy, and direct contact information outside of the email process.
 
 # Appendix
 
